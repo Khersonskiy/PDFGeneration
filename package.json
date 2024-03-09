@@ -1,6 +1,6 @@
 {
   "name": "pdfgenerationbykhersonskiy",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "by Khersonskiy",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Khersonskiy/PDFGeneration.git"
   },
   "keywords": [
-    "", 
+    "",
     "",
     ""
   ],
-  "author": "",
-  "license": "MIT"
+  "author": "byKhersonskiy",
+  "license": "MIT",
+  "dependencies": {
+    "imageprocessingbykhersonskiy": "^1.0.1"
+  }
 }
